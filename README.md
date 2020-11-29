@@ -1,8 +1,8 @@
 # Allocation-of-resources-in-the-wireless-network
 Dr.Rasti Resource Allocation in Wireless Networks 
 # syllabus
-I- Basics of Wireless Networks
-  1- Introduction of Wireless Networks and Radio Resources
+* Basics of Wireless Networks
+  ** Introduction of Wireless Networks and Radio Resources
   2- Categories of Wireless Networks and Taxonomy of Hot Topics Research Areas on Resource Allocation in Wireless Networks
 
 II- Techniques for Modeling and Analysis of Radio Resource Allocation in Wireless Networks
